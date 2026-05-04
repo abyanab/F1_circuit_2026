@@ -1,1 +1,6 @@
 ![Screenshot of an image of F1_circuits from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits.png)
+![Screenshot of an image of F1_circuits_folium from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits_folium.png)
+![Screenshot of an image of F1_gdf from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_gdf.png)
+![Screenshot of an image of F1_globe_map from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_globe_map.png)
+![Screenshot of an image of F1_poster_visualization from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_poster_visualization.png)
+![Screenshot of an image of F1_satellite_visualization from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_satellite_visualization.png)
