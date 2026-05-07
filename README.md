@@ -52,8 +52,8 @@ This image was created to show the complexity of circuit design. Each circuit ha
 ![Screenshot of an image of F1_poster_visualization from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_poster_visualization.png)
 
 ## Acknowledgement
-(F1 Circuits Location Coordinates: https://github.com/bacinger/f1-circuits/blob/master/f1-locations.json)<br>
-(F1 Circuits Name season 2026: https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship)<br>
-(F1 Circuits GeoJSON: https://github.com/bacinger/f1-circuits)<br>
-(F1 Hex Color Code: https://www.brandcolorcode.com/formula-one)<br>
-(F1 font: https://fontforfree.com/formula-1-font/)
+F1 Circuits Location Coordinates: https://github.com/bacinger/f1-circuits/blob/master/f1-locations.json<br>
+F1 Circuits Name Season 2026: https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship<br>
+F1 Circuits GeoJSON: https://github.com/bacinger/f1-circuits<br>
+F1 Hex Color Code: https://www.brandcolorcode.com/formula-one<br>
+F1 Font: https://fontforfree.com/formula-1-font/
