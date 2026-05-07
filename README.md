@@ -26,28 +26,34 @@
 |21| Losail International Circuit | Lusail | 25.490 | 51.454 |
 |22| Yas Marina Circuit | Abu Dhabi | 24.471 | 54.601 |
 
-![Screenshot of an image of F1_gdf from google colab file]|https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_gdf.png)
+![Screenshot of an image of F1_gdf from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_gdf.png)
 
 ## GeoJSON Dataset
-![Screenshot of an image of F1_circuits from google colab file]|https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits.png)
+![Screenshot of an image of F1_circuits from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits.png)
 
 ## Explore Dataset
 Overlay all datasets onto the map by using the same coordinate reference system (EPSG:4326). The Folium library allows us to interact with the map by zooming and panning to ensure all datasets are placed correctly.
-![Screenshot of an image of F1_circuits_folium from google colab file]|https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits_folium.png)
+
+![Screenshot of an image of F1_circuits_folium from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_circuits_folium.png)
 
 ## Visualize using Matplotlib (Globe Map Version)
 The 2026 F1 season consists of 22 circuits spread across the world.
-![Screenshot of an image of F1_globe_map from google colab file]|https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_globe_map.png)
+
+![Screenshot of an image of F1_globe_map from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_globe_map.png)
 
 ## Visualize using Matplotlib (Satellite Imagery Version)
 All 22 circuits of this season viewed from above, allowing us to see the surroundings. Some are located in rural areas, others in the heart of cities, and some even use the regular roads as the main tracks.
+
 ![Screenshot of an image of F1_satellite_visualization from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_satellite_visualization.png)
 
 ## Visualize using Matplotlib (Poster Version)
 This image was created to show the complexity of circuit design. Each circuit has its own unique characteristics and challenges.
+
 ![Screenshot of an image of F1_poster_visualization from google colab file](https://github.com/abyanab/F1_circuit_2026/blob/main/images/f1_poster_visualization.png)
 
 ## Acknowledgement
 (F1 Circuits Location Coordinates: https://github.com/bacinger/f1-circuits/blob/master/f1-locations.json)<br>
 (F1 Circuits Name season 2026: https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship)<br>
-(F1 Circuits GeoJSON: https://github.com/bacinger/f1-circuits)
+(F1 Circuits GeoJSON: https://github.com/bacinger/f1-circuits)<br>
+(F1 Hex Color Code: https://www.brandcolorcode.com/formula-one)<br>
+(F1 font: https://fontforfree.com/formula-1-font/)
