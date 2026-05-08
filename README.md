@@ -2,7 +2,7 @@
 
 ## Tabular Dataset
 | Round | Name | City | Latitude | Longitude |
-|:---|:---|:---|:---|:---|
+|---:|---|---|---:|---:|
 |1| Albert Park Circuit | Melbourne | -37.846 | 144.970 |
 |2| Shanghai International Circuit | Shanghai | 31.340 | 121.221 |
 |3| Suzuka International Racing Course | Suzuka | 34.844 | 136.534 |
